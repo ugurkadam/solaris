@@ -130,7 +130,7 @@ $('.responsive').on('click', function (e) {
     
     // HOME TYPED JS
       $(".element").typed({
-        strings: ["Ugur", "Software Architect", "Software Engineer"],
+        strings: ["Ugur", "a Software Architect", "a Software Engineer"],
         typeSpeed: 10,
         loop:true,
         backDelay: 2000
